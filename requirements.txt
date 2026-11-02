@@ -1,0 +1,14 @@
+# NetReach – Requirements
+
+# All dependencies are part of the Python Standard Library.
+# No external packages are required.
+#
+# Python >= 3.8 recommended.
+#
+# Built-in modules used:
+#   - tkinter     (GUI)
+#   - collections (deque for BFS queue)
+#   - json        (network save/load)
+#   - math        (canvas layout calculations)
+#   - threading   (not used in final version – auto-run uses tk.after)
+#   - time        (not used directly)
